@@ -1,3 +1,5 @@
+package Ch7Arrays;
+
 import com.sun.corba.se.spi.orbutil.fsm.Input;
 //this program takes the temperatures of each day you would like to input and calculates the average and tells you how many dyas were above it
 import java.util.Scanner;
